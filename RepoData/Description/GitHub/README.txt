@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🖱️🖥️📖️ The official documentation source repository for the Seanpm2001 Computer Cursor Tech SUpport project, providing a Technical support reference information center for mouse cursor issues, such as the mouse pointer freezing, or acting incorrectly. 
